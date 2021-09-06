@@ -1,0 +1,249 @@
+.image
+{
+	
+	float: left;
+	width: 40%;
+}
+.right
+{
+	width: 60%;
+	float: right;
+	margin-top: 30px;
+
+}
+
+@media(max-width: 700px)
+{
+	.right
+	{
+		float: none;
+		width: 100%;
+	}
+	.image
+	{
+		float: none;
+		width: 100%;
+	}
+	
+	.logo
+	{
+		float: none;
+		width: 100%;
+
+	}
+	.promoter
+	{
+		float: none;
+		width: 100%;
+	}
+	.list
+	{
+		float: none;
+		width: 100%;
+
+	}
+	.list2
+	{
+		float: none;
+		width: 100%;
+	
+	}
+	.list3
+	{
+		float: none;
+		width: 100%;
+	
+	}
+
+
+}
+.natural
+{
+	width: 50%;
+	float: left;
+	margin-top: 30px;
+	margin-left: 100px;
+
+}
+
+.clear
+{
+	clear: both;
+}
+.about
+{
+	width: 100%;
+	height: 500px;
+	background-size: 100% 100%;
+	 background-image: url('inv.jpeg');
+	 background-repeat: no-repeat;
+
+}
+.promoter
+{
+	
+	width: 40%;
+	padding-top: 5%;
+	padding-right: 10%;
+
+	float: right;
+	
+	
+}
+.logo
+{
+	float: left;
+	padding-top: 10%;
+	padding-left: 10%;
+}
+
+.invite
+{
+	
+	width: 100%;
+	height: 500px;
+	background-size: cover;
+	 background-image: url('kul.jpg');
+	 background-repeat: no-repeat;
+
+}
+.Enquire
+{
+padding-top: 10%;
+	padding-left: 10%;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.try
+{
+	padding-left: 50px;
+	padding-top: 70px;
+	float: left;
+	width: 40%;
+}
+.kisok
+{
+	width: 50%;
+	float: right;
+	margin-left: 50px;
+}
+.list3
+{
+	float: left;
+	padding-left: 150px;
+}
+.list2
+{
+	float: left;
+	padding-left: 150px;
+}
+.list
+{
+	float: left;
+	padding-left: 200px;
+}
+.Contact
+{
+	width: 100%;
+	height: 700px;
+	
+
+	background-color:  #020202;
+}
+.form
+{
+	
+	color: white;
+	float: left;
+	margin-left: 50px;
+}
+.address
+{
+	width: 30%;
+	color: white;
+	float: right;
+	margin-top: 70px;
+	 font-family: Poppins, sans-serif;
+	margin-right: 150px;
+}
+input {
+  width: 100%;
+  padding: 12px 100px;
+  margin: 8px 0;
+ 
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+.mySlides {display:none;}
+
+#label
+{
+	font-family: "Lucida Console", "Courier New", monospace;
+	margin-left: 100px;
+	
+}
+p
+{
+	color: #5D6D7E;
+	font-size: 20px;
+	 font-family: Poppins, sans-serif;
+}
+h1
+{
+	 font-family: "Times New Roman", Times, serif;
+	color: black;
+	font-size: 30px;
+}
+h2
+{
+	font-family: "Lucida Console", "Courier New", monospace;
+	color: #5D6D7E;
+font-size: 20px;
+}
+li
+{
+	color: #273746 ;
+	font-size: 20px;
+		 font-family: Poppins, sans-serif;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.apps
+{
+	float: right;
+	padding-right: 100px;
+}
